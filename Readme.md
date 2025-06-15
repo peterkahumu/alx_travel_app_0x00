@@ -1,7 +1,6 @@
 # ALX Travel App - 0x00
 
 ## Project Overview
-
 This project implements:
 
 - Django models for `Listing`, `Booking`, and `Review`
